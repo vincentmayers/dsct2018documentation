@@ -1,6 +1,5 @@
 # dsct2018documentation
 
-datascicon2018-workshop-instructions
 
 Please follow the instructions ONLY for the workshop for which you registered. If you don't remember which one that is, please email us! All workshops require laptops!
 
