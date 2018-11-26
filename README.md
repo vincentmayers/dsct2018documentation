@@ -23,6 +23,6 @@ Please have Tableau installed on your laptop https://www.tableau.com/trial/downl
 
 **Data Science with R - John Regenstein**
 
-Please have R Studio installed on your laptop https://www.rstudio.com/products/rstudio/download/
+Please have R Studio installed on your laptop https://rstudio.cloud/spaces/7214/join?access_code=a9m8OrZwBZE6FXCA9JbWM%2FBIVUyj39Vod9msuVcT
 
 
